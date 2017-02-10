@@ -22,6 +22,3 @@ if (Math.random() < 0.5) {
   this.currentPlayer = this.player2;
   }
 }
-
-var newConnectGame = new ConnectFour('Nizar', 'Javier');
-console.log(newConnectGame);
